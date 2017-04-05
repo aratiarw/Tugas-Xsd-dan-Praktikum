@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pendidikan Data="Mahasiswa" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="pendidikan.xsd">
+	
+	<nama>Tiara Rizki Wulansari</nama>
+	<npm>1154026</npm>
+	<kelas>2B</kelas>
+	<prodi>Diploma 4</prodi>
+	<jurusan>Teknik Informatika</jurusan>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<alamat>Jakarta</alamat>
+	<email>26tiara@gmail.com</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+	
+	<nama>Adhenia Puspita</nama>
+	<npm>4153032</npm>
+	<kelas>2B</kelas>
+	<prodi>Diploma 3</prodi>
+	<jurusan>Manajemen Bisnis</jurusan>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<alamat>Banjarnegara</alamat>
+	<email>adheniapuspitaa@gmail.com</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+	
+	<nama>Rafiena Rifqah Islami</nama>
+	<npm>4153064</npm>
+	<kelas>2B</kelas>
+	<prodi>Diploma 3</prodi>
+	<jurusan>Manajemen Bisnis</jurusan>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<alamat>Cibinong</alamat>
+	<email>rafienarifqah@gmail.com</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+	
+	<nama>Diana Satima Gistivani</nama>
+	<npm>1154018</npm>
+	<kelas>2B</kelas>
+	<prodi>Diploma 4</prodi>
+	<jurusan>Teknik Informatika</jurusan>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<alamat>Ciamis</alamat>
+	<email>satimagistivani@gmail.com</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+	
+	<nama>Novrianty Sagita Nawir</nama>
+	<npm>4154084</npm>
+	<kelas>2C</kelas>
+	<prodi>Diploma 4</prodi>
+	<jurusan>Manajemen Bisnis</jurusan>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<alamat>Pare-Pare</alamat>
+	<email>novriantysagita@yahoo.co.id</email>
+	<kampus nama="Politeknik Pos Indonesia">
+		<alamat>jalan sariasih no.54 Bandung</alamat>
+	</kampus>
+</pendidikan>
